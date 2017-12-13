@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*- 
 # File_name: cMD5
 # Writin by: lnxg33k <ahmed[at]isecur1ty.org>
-# Chage by:乔3少 <traceurq@gmail.com>
 # 修改了原版的本地破解函数，直接导入字典源文件，程序自动将字典中的字符串加密与密码对比。
 # 原版地址：http://lnxg33k.wordpress.com/2011/03/05/scripts-md5-hash-cracker-online-offline/
 import sys
